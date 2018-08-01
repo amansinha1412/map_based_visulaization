@@ -6,3 +6,21 @@
     fill: black;
 
 }
+.dashboard{
+	top:-2px;
+    width:17%;
+    max-width:240px;
+    min-width: 130px;
+    height:603px;
+    float:left;
+    position:relative;
+    background-color:#2a75bf;
+    border-right:10px solid #dedcea ;
+    color:#CBEAFB;
+    margin-right:20px;
+
+}
+#map{
+	float:left;
+	margin-left:-20px;
+}
